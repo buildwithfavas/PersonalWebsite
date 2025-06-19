@@ -1,6 +1,8 @@
-Thanks for downloading this template!
+## About This Project
 
-Template Name: TechFolio
-Template URL: https://Favas.com/Favas-bootstrap-portfolio-template/
-Author: Mohammed Favas
-License: https://Favas.com/license/
+Welcome to my portfolio! This site is a reflection of my work as a developer and creator. It's fully responsive, built from scratch using HTML, CSS, and JavaScript.
+
+---
+
+Made with ❤️ by [Mohammed Favas](https://favas.com)  
+Find more on [GitHub](https://github.com/buildwithfavas)
